@@ -1,2 +1,5 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+# auth-graphql
+
+## How do I run this? 
+`npm i` in the root directory. 
+`npm start` in the client/ directory. 
